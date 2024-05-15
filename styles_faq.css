@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1a1a2e;
+  color: #ffffff;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 0 20px;
+  color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
+
+.faq {
+  margin-bottom: 30px;
+  color: #ffffff;
+}
+
+h2 {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 200px;
+}
